@@ -1,0 +1,9 @@
+{
+    "title": "Real Time Alignment and Distribution of Weather Radar Data with Rain Gauge Data for Deep Learning using CHORDS",
+    "creators": [
+             {"name": "Jay Potnis", "affiliation": "Colorado State University"},
+    {"name": "V.Chandrasekar", "affiliation": "Colorado State University"},
+    {"name": "Ryan Gooch", "affiliation": "Colorado State University"}
+    ],
+    "keywords": ["Quantative Precipitation Estimation (QPE)", "Deep Learning", "Rain Classification", "Radar data aligning", "Cloud Hosted Real Time Data (CHORDS)"]
+}
